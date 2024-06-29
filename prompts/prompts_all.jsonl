@@ -1,0 +1,14 @@
+{"prompt": "\nAnswer according to Wikipedia.\n", "location": "after", "location_specific": "after"}
+{"prompt": "Answer according to Wikipedia.\n", "location": "before", "location_specific": "before"}
+{"prompt": "\nGo to https://www.wikipedia.org and find direct quotes to answer the question. \nResponse: \"", "location": "after", "location_specific": "after"}
+{"prompt": "\nGo to https://www.wikipedia.org and find direct quotes to answer the question. \nResponse: ", "location": "after", "location_specific": "after"}
+{"prompt": "\nGo to https://www.github.com and find direct quotes to answer the question. \nResponse: ", "location": "after", "location_specific": "after"}
+{"prompt": "\nGo to https://www.reddit.com and find direct quotes to answer the question. \nResponse: ", "location": "after", "location_specific": "after"}
+{"prompt": "\nGo to https://www.dfjaskdfjas.com and find direct quotes to answer the question. \nResponse: ", "location": "after", "location_specific": "after"}
+{"prompt": "\nGo to https://www.nytimes.com and find direct quotes to answer the question. \nResponse: ", "location": "after", "location_specific": "after"}
+{"prompt": "\n\nRespond to this question using only information that can be attributed to Wikipedia. Your answer should include direct quotations and include full sentences from Wikipedia.", "location": "after", "location_specific": "after"}
+{"prompt": "\nBased on evidence from Wikipedia: ", "location": "after", "location_specific": "after"}
+{"prompt": "\nRespond by using information from Wikipedia in your response.\n", "location": "after", "location_specific": "after"}
+{"prompt": "\nReference Wikipedia when answering the following question.", "location": "after", "location_specific": "after"}
+{"prompt": "\nRespond by using information from Reddit in your response.\n", "location": "after", "location_specific": "after"}
+{"prompt": "\nRespond by using information from Github in your response.\n", "location": "after", "location_specific": "after"}

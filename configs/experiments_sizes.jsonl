@@ -1,0 +1,4 @@
+{"prompt_before": "", "prompt_after": "", "model_name": "gpt3", "specific_name": "text-davinci-003", "num_examples": 9999999, "temperature": 0.3, "dataset_name": "ELI5_dev"}
+{"prompt_before": "", "prompt_after": "", "model_name": "gpt3", "specific_name": "text-babbage-001", "num_examples": 9999999, "temperature": 0.3, "dataset_name": "ELI5_dev"}
+{"prompt_before": "", "prompt_after": "", "model_name": "gpt3", "specific_name": "text-ada-001", "num_examples": 9999999, "temperature": 0.3, "dataset_name": "ELI5_dev"}
+{"prompt_before": "", "prompt_after": "", "model_name": "gpt3", "specific_name": "text-curie-001", "num_examples": 9999999, "temperature": 0.3, "dataset_name": "ELI5_dev"}

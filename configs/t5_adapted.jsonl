@@ -1,0 +1,2 @@
+{"prompt_before":"","prompt_after":"Answer:","model_name":"t5","specific_name":"google\/t5-xxl-lm-adapt","num_examples":999999,"temperature":0.3,"dataset_name":"ELI5_dev","batch_size":12}
+{"prompt_before":"","prompt_after":"\n\nRespond to this question using only information that can be attributed to Wikipedia.\n\nAnswer:","model_name":"t5","specific_name":"google\/t5-xxl-lm-adapt","num_examples":999999,"temperature":0.3,"dataset_name":"ELI5_dev","batch_size":12}
