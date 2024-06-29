@@ -11,7 +11,6 @@ This repository contains the code and data for the paper ["According to ...": Pr
 - [Setup](#setup)
 - [Usage](#usage)
 - [Data](#data)
-- [Contributing](#contributing)
 - [License](#license)
 - [Citing](#citing)
 
