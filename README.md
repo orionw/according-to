@@ -43,6 +43,7 @@ This project explores how prompting language models can improve their ability to
 3. Download the KILT/PubMedQA data:
    ```
    git clone https://huggingface.co/datasets/orionweller/according-to-data
+   pip install git+https://github.com/facebookresearch/KILT.git
    ```
 
 4. For QUIP usage, follow the setup instructions in the [Data Portraits](https://github.com/ruyimarone/data-portraits) repository.
