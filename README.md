@@ -29,7 +29,7 @@ This project explores how prompting language models can improve their ability to
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/according-to.git
+   git clone https://github.com/orionw/according-to.git
    cd according-to
    ```
 
