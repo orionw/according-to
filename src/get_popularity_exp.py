@@ -8,10 +8,10 @@ import random
 random.seed(12)
 np.random.seed(12)
 
-nq_path_train = "/home/hltcoe/oweller/my_exps/datasketches-dev/according_to_wikipedia/long_tail_knowledge/output/qa_co_occurrence_split=the_pile_entity_map_nq_train_entities_qa_co_occurrence.json"
-tqa_path_dev = "/home/hltcoe/oweller/my_exps/datasketches-dev/according_to_wikipedia/long_tail_knowledge/output/qa_co_occurrence_split=the_pile_entity_map_trivia_qa_unfiltered.nocontext_validation_entities.json"
-tqa_path_train = "/home/hltcoe/oweller/my_exps/datasketches-dev/according_to_wikipedia/long_tail_knowledge/output/qa_co_occurrence_split=the_pile_entity_map_trivia_qa_unfiltered.nocontext_train_entities_qa_co_occurrence.json"
-nq_path_dev = "/home/hltcoe/oweller/my_exps/datasketches-dev/according_to_wikipedia/long_tail_knowledge/output/qa_co_occurrence_split=the_pile_entity_map_nq_validation_entities.json"
+nq_path_train = "long_tail_knowledge/output/qa_co_occurrence_split=the_pile_entity_map_nq_train_entities_qa_co_occurrence.json"
+tqa_path_dev = "long_tail_knowledge/output/qa_co_occurrence_split=the_pile_entity_map_trivia_qa_unfiltered.nocontext_validation_entities.json"
+tqa_path_train = "long_tail_knowledge/output/qa_co_occurrence_split=the_pile_entity_map_trivia_qa_unfiltered.nocontext_train_entities_qa_co_occurrence.json"
+nq_path_dev = "long_tail_knowledge/output/qa_co_occurrence_split=the_pile_entity_map_nq_validation_entities.json"
 
 with open(tqa_path_train) as f:
     tqa_train = json.load(f)
